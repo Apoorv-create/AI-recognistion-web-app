@@ -1,0 +1,11 @@
+.Heading{
+    color: black;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0px;
+    color: lightgreen;
+    background-color: black;
+    text-align: center;
+    margin-left: 500px;
+}
